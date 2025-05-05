@@ -1,4 +1,4 @@
-# 👩‍💻 Camila Barbosa
+# 👩🏾‍💻 Camila Barbosa
 
 **`Graduanda em Sistemas de Informação`**
 
