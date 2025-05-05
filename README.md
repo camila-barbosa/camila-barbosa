@@ -14,4 +14,5 @@
   
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camila-barbosa&hide=Makefile&layout=compact&theme=dracula" height="150" alt="Camila Barbosa's top langs" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+
